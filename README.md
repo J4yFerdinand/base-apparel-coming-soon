@@ -30,7 +30,7 @@ Users should be able to:
 
 |Mobile| Desktop|
 |-------|-------|
-|./design/mobile-design.jpg |./design/desktop-design.jpg|
+|![](./design/mobile-design.jpg) |![](./design/desktop-design.jpg)|
 
 ### Links
 
